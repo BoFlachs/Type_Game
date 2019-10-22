@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0EC8D8F3-7757-4BAC-8972-759BD6F523E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Type-Game/Scherm.cs">
+    <Files>
+      <File FileName="Type-Game/Program.cs" Line="13" Column="1" />
+      <File FileName="Type-Game/Scherm.cs" Line="45" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Type-Game" expanded="True">
+            <Node name="Type-Game" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Scherm.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Type-Game PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

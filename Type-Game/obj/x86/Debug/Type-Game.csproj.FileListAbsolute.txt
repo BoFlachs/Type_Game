@@ -1,0 +1,6 @@
+/Users/Bo/Projects/Type-Game/Type-Game/bin/Debug/Type-Game.exe
+/Users/Bo/Projects/Type-Game/Type-Game/bin/Debug/Type-Game.pdb
+/Users/Bo/Projects/Type-Game/Type-Game/obj/x86/Debug/Type-Game.csproj.CoreCompileInputs.cache
+/Users/Bo/Projects/Type-Game/Type-Game/obj/x86/Debug/Type-Game.exe
+/Users/Bo/Projects/Type-Game/Type-Game/obj/x86/Debug/Type-Game.pdb
+/Users/Bo/Projects/Type-Game/Type-Game/obj/x86/Debug/Type-Game.csprojAssemblyReference.cache
